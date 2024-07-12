@@ -52,6 +52,11 @@ a, a:hover{
 
 /* banner section Css */
 
+.bk-part{
+    background: #F8FFFB;
+    
+}
+
 .banner-section{
     width: 100%;
     background-color: #F0FFF0;
